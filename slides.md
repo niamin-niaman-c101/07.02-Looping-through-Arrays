@@ -6,7 +6,7 @@ fonts:
   sans: Prompt
 ---
 
-# Array
+# Looping through Arrays
 
 ---
 layout: center
