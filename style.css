@@ -1,4 +1,5 @@
-code:not(.language-c) {
+/* Select code tag ที่ไม่มี class เลย */
+code:not([class]) {
   @apply bg-blue-100 text-red-500 px-2 py-1 rounded-md font-mono text-sm;
   font-family: 'Fira Code', 'Source Code Pro', Menlo, Consolas, 'Courier New', monospace;
   font-size: 14px !important;
